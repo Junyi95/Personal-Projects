@@ -2,7 +2,7 @@
 
 List of my personal projects with their kaggle links:
 
-*Titanic Survivor Classification - https://www.kaggle.com/junyingsg/a-beginner-s-comprehensive-guide-to-using-xgboost
+nbsp Titanic Survivor Classification - https://www.kaggle.com/junyingsg/a-beginner-s-comprehensive-guide-to-using-xgboost
 
 *Analysis of Women's E-Commerce Clothing Reviews - https://www.kaggle.com/junyingsg/in-depth-analysis-of-women-s-e-commerce-reviews
 
