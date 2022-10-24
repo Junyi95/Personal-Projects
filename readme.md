@@ -1,7 +1,7 @@
 # Personal-Projects
 
 List of my personal projects with their kaggle links:
-
+\n
 
 Titanic Survivor Classification - https://www.kaggle.com/junyingsg/a-beginner-s-comprehensive-guide-to-using-xgboost
 
@@ -15,7 +15,7 @@ Denoising Labels with Confidence - https://www.kaggle.com/junyingsg/step-by-step
 
 TF.Data Pipeline with SOTA Augmentations - https://www.kaggle.com/junyingsg/tf-data-pipeline-with-albumentation-cutmix-up
 
-
+\n
 Trading related (not uploaded on kaggle):
 
 Identifying Small Mean Reverting Portfolios
