@@ -13,3 +13,7 @@ End-to-End Cassava Disease Classification - https://www.kaggle.com/junyingsg/end
 Denoising Labels with Confidence - https://www.kaggle.com/junyingsg/step-by-step-guide-to-denoising-your-labels
 
 TF.Data Pipeline with SOTA Augmentations - https://www.kaggle.com/junyingsg/tf-data-pipeline-with-albumentation-cutmix-up
+
+Trading related (not uploaded on kaggle):
+
+Identifying Small Mean Reverting Portfolios
