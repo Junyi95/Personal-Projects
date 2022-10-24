@@ -5,21 +5,21 @@ List of my personal projects with their kaggle links:
 
 
 
-&nbsp Titanic Survivor Classification - https://www.kaggle.com/junyingsg/a-beginner-s-comprehensive-guide-to-using-xgboost
+Titanic Survivor Classification - https://www.kaggle.com/junyingsg/a-beginner-s-comprehensive-guide-to-using-xgboost
 
-&nbsp Analysis of Women's E-Commerce Clothing Reviews - https://www.kaggle.com/junyingsg/in-depth-analysis-of-women-s-e-commerce-reviews
+Analysis of Women's E-Commerce Clothing Reviews - https://www.kaggle.com/junyingsg/in-depth-analysis-of-women-s-e-commerce-reviews
 
-&nbsp Exploring COVID-19 Data - https://www.kaggle.com/junyingsg/a-clean-analysis-of-covid-19-data
+Exploring COVID-19 Data - https://www.kaggle.com/junyingsg/a-clean-analysis-of-covid-19-data
 
-&nbsp End-to-End Cassava Disease Classification - https://www.kaggle.com/junyingsg/end-to-end-cassava-disease-classification-in-keras
+End-to-End Cassava Disease Classification - https://www.kaggle.com/junyingsg/end-to-end-cassava-disease-classification-in-keras
 
-&nbsp Denoising Labels with Confidence - https://www.kaggle.com/junyingsg/step-by-step-guide-to-denoising-your-labels
+Denoising Labels with Confidence - https://www.kaggle.com/junyingsg/step-by-step-guide-to-denoising-your-labels
 
-&nbsp TF.Data Pipeline with SOTA Augmentations - https://www.kaggle.com/junyingsg/tf-data-pipeline-with-albumentation-cutmix-up
+TF.Data Pipeline with SOTA Augmentations - https://www.kaggle.com/junyingsg/tf-data-pipeline-with-albumentation-cutmix-up
 
 
 
 
 Trading related (not uploaded on kaggle):
 
-&nbsp Identifying Small Mean Reverting Portfolios
+Identifying Small Mean Reverting Portfolios
